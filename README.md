@@ -29,7 +29,7 @@ student-info-system/
 
 ## Getting Started
 ```bash
-git clone https://github.com/<your-username>/student-info-system.git
+git clone https://github.com/<yexileasuncionecoast-lab>/student-info-system.git
 cd student-info-system
 pip install -r requirements.txt
 python src/main.py
@@ -61,4 +61,4 @@ one service class (easy to swap for S3/DynamoDB/a database), and errors are
 handled without crashing the app.
 
 ## Author
-<Your Name>
+<Yexile Kyle G. Asuncion>
