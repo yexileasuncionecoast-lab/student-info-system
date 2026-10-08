@@ -62,3 +62,4 @@ handled without crashing the app.
 
 ## Author
 <Yexile Kyle G. Asuncion>
+Tip: Use option 3 in the menu to search students by name or course.
